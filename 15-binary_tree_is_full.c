@@ -5,7 +5,7 @@
  * @tree: A pointer to the root node of the tree to check
  *
  * Return: If a tree is Null or is not full - 0.
- * 		Otherwise - 1.
+ *		Otherwise - 1.
  */
 int binary_tree_is_full(const binary_tree_t *tree)
 {
